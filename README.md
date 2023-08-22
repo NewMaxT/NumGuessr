@@ -9,6 +9,10 @@ If you guess correctly, you win! If not, the game reveals the number and asks if
 To install and run NumGuessr, download and run the .exe file.
 Works only on Windows 10 and later platforms.
 
+## Cooking the executable with the source code
+You must have .NET 6.0 installed.
+The executable already released are independent and does not need to install any .NET package 
+
 ## Licensing 
 ```
 This is free and unencumbered software released into the public domain.
